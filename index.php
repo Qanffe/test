@@ -1,2 +1,2 @@
 <?php 
-	echo 'lajilo';
+	echo phpinfo();
